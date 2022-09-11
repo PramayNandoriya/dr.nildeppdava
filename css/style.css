@@ -3098,4 +3098,9 @@ a:hover {
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+.text_about_project{
+  text-align: justify;
+  word-spacing: -2px;
+}
 /*# sourceMappingURL=style.css.map */
